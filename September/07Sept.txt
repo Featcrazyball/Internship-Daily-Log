@@ -1,0 +1,22 @@
+A link to a website was given. This task consists of 2 sub-tasks.
+    1. Look around the website and test user functionality.
+    2. VAPT, standing for Vulnerability Assessment and Penetration Testing (optional)
+
+While my role in the company is designated as Full Stack Engineer Intern, I was able to use skills learnt from 
+the previous semester due to my specialisation in Cyber Security to do VAPT as well. 
+The first 1 and a half hour, was downloading all the tools that I was familiar with onto my laptop (as 
+they were not previously installed due to them being on tryhackme). Tools included Kali Linux, VMware Workstation, 
+and a Windows 11 image file. While downloading, I set up my report, looked up information regarding the domain name, 
+and poked the website around through simple SQL Injection testing, and looking through the Javascript of the website.
+
+While reading, I found out that all of the website's API, 
+were exposed. Including the sensitive ones that 
+required authentication or even a higher privilege. 
+Other findings included having no account lockout, no 2FA, and the IPv6 and IPv4 of the domain name.
+
+Finally, when my tools finished downloading, I used Gobuster to find hidden directories and subdomains. 
+While I was unable to find any sub domains, I found that the hidden directories were 
+being redirected to an azure domain. Successfully allowing me to bypass cloudflare. 
+Moreover, I found out that the frontend of the website is run on port 443 and 8443 
+while the backend is ran on 80 and 8080 through nmap. Note that 8443 and 8080 are 
+http alts and http proxy. Unfortunately, I was unable to find the OS and its version.

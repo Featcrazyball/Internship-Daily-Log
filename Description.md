@@ -1,0 +1,1 @@
+This folder is for my personal daily tasks for logging to show i did my stuff
