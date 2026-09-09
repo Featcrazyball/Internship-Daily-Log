@@ -1,0 +1,4 @@
+The previous 2 days were more towards reconnaissance and scanning of the overall structure of the website. 
+Today, I focused more towards the UI and UX of the website on my laptop. 
+I continued my report by adding a "User Interface Issues" as another section and listed a total of 9 detailed UI issues. 
+Some issues with the website were also found while looking at the website's UI.
