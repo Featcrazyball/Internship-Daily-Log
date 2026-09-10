@@ -1,0 +1,8 @@
+First Task:
+Permission to run around even more has been granted the previous day. 
+Thus, I was finding more information about app.mzt.one and other related websites. 
+Scanning them to find a vulnerability. 
+I also added some new findings. Findings increased from A17 to A26.
+
+Second Task:
+Finished the section for the website's responsivess and UI. With a total of 19 items.
