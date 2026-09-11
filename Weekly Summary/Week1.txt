@@ -1,0 +1,13 @@
+In this week, 3 tasks were assigned, one of them being optional.
+
+The first task was assigned on Monday. The task was to 
+look at a website, look around it, and report it to
+our Industry Supervisor. Together with the second task, 
+which was to conduct a small Vulnerability Assessment and Penetration Test on the website,
+I wrote a 60 page report by Thursday, while spending the morning of Friday
+trying to break the AI, as part of the Vulnerability Assessment.
+
+The second task was assigned on Friday. Where me and another intern, were
+to comprehend a python script given to us by the Industry Supervisor.
+This task was left unfinished at the end of the week due to us taking
+time to write another documentation on the script.

@@ -1,0 +1,12 @@
+Website Testing: 1h
+Finish the report completely by finish up the executive summary, summary of findings, and conclusion section of the report
+
+Website AI Copilot testing: 3hs
+Spent the morning testing the AI. Attempting to do prompt injection, 
+trying to hallucinate it, and a few other things. 
+In the end, the AI was too strong and me and my partner was unable to break it.
+
+Script Comprehension: 3hs
+A task was given to me and another intern. The task 
+was to comprehend a python script that was given to us and share our findings with them. 
+This task was left unfinished as we need to write down our findings. 

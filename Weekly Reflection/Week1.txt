@@ -1,0 +1,42 @@
+The first week of internship was a new experience for me. 
+In a short week, I have met many new people and gained
+a better understanding of what people do in the industry. 
+
+Despite being the first week of internship, it was 
+quite hectic. The major task was to look at a website, 
+and note down what it does, with the option of conducting 
+a small Vulnerability Assessment and Penetration Test on it. 
+Coming from Monfort, I have always stuck by their motto, "Age 
+Quode Agis", meaning do well in whatever you do. Thus, I proceeded 
+with both optional and mandatory task and wrote a 60-page report in under 4 days with over 50 findings.
+
+However, I soon learnt that a lot of the documentation I did was unnecessary. 
+As one of the seniors in the workplace said, "you are not paid enough to do this." 
+This was quite a big takeaway for me. Back in school, all our 
+steps had to be documented extremely carefully. Yet, in the 
+workplace, what mattered more was the result. 
+
+To put it in simple terms, in primary school math, 
+without working, the marker would not give marks. In 
+contrast, in the workplace, even without working, the
+marker would give marks. Of course, in terms of VAPT, the steps 
+for exploitation are part of the answer. However, the customer does not need to 
+understand how those steps were formulated.
+
+So far, I have yet to learn any new skills. However, I did discover 
+a few holes in my repertoire that I use for VAPT. For example, I lack 
+notes for Windows commands, including how to enumerate for Privilege 
+Escalation on Windows. On the other hand, a machine running Linux would 
+be an easier target for me.
+
+Moving on, the employees in Momentum Z has been 
+quite intriguing. Many of them come from completely different paths of life, 
+with vastly different skill sets. In addition to their informality, 
+it feels less than a company and more like a team.
+
+Finally, I would like to state that I have yet to encounter 
+much difficulties at work. While there is an ongoing 
+task of requiring me to comprehend a python script and 
+I had not looked at python code for 2 years. It is not 
+especially difficult as the functions and variables are not 
+obfuscated. Not to mention, my partner, another intern, frequently uses python, so I can ask him for help. 
