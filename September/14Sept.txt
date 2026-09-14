@@ -1,0 +1,9 @@
+Script Comprehension: 4h
+The morning was spent editing the document for the python script given previously. 
+Me and another intern completed the short documentation.
+
+Script Editing: 2h
+Edited the script to include more features. 
+As mentioned before the script is made to automated VAPT. 
+I added a module to test SQLi Authentication Bypass. 
+More modules would be added at a later date.
