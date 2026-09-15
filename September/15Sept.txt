@@ -1,0 +1,7 @@
+Script Editing: 2h
+Finished editing the script for now by adding 3 new modules to the script. 
+These new modules are used to test the web application's API. 
+And check for what type of file inputs are acceptable.
+
+Website Remediation: 1h
+Testing if a fix has been implemented on a customer's website for a vulnerability previously detected.
