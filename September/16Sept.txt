@@ -1,0 +1,10 @@
+Cyber Awareness Training: 2hs
+Learn about cyber attacks and how to defend oneself from various attacks such as phishing, 
+and how attackers can mask domain names using different languages to trick the victim.
+
+System Architecture Ideas: 2hs
+Give ideas for the current system architecture of a certain web application architecture 
+and the list out the current application's major vulnerabilities, including what to fix.
+
+Website Vulnerability Assessment: 2hs
+Write a report about a website's vulnerability assessment. Note that this is still incomplete. 
