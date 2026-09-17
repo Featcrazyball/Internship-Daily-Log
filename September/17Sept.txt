@@ -1,0 +1,8 @@
+Website Vulnerability Assessment: 2hs
+Write a report about a website's vulnerability assessment. Due to the lack
+of permissions to continue testing the website, this is considered temporarily complete.
+
+Push Notification Readup: 3hs
+Read up on push notifications, how it works and 
+updated my personal notes based on my understanding. 
+This is to prepare for future vulnerability assessments.
