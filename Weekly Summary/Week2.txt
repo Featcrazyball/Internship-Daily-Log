@@ -1,0 +1,12 @@
+This week was full of smaller tasks yet numerous tasks including:
+1. Editing a python script,
+2. Assisting Mr Yew Mun in checking if a customer fixed a vulnerability on their web application
+3. Cyber Awareness Training, 
+4. assisting the development team in their system architecture on Microsoft Azure
+4. Writing a small report about Vulnerability Assessment on another client's websites
+5. Reading up on Push Notifications and how they work
+6. Setting up the company's project on my device
+7. Fixing the repository branches and setting up a better way for developers to push code.
+
+However, the 7th task still requires me to make an SOP (Standard Operating Procedure) for 
+future developers to easily work on the project. 

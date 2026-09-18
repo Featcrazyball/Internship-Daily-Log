@@ -1,0 +1,34 @@
+Compared to the previous week, the task load for this week was 
+straight forward. This is being compared through effort. 
+During the first week of internship, it was mostly report-writing
+about a website. However, this week included many smaller tasks, 
+from editing a python script, to testing if a customer fixed 
+their website yet from a previously known vulnerability, and even 
+looking through the Github for the code of a project the company 
+intends to push as a product.
+
+In week 1, I learnt that this was not school. In school, 
+I needed to write down my steps to get marks. However, this 
+is a workplace, the main concern is the result. With this knowledge, 
+I was able to greatly cut down the amount of time I spent on tasks.
+
+This week, I understood something very different. It is the fact that 
+even company's may not be definite role models. People make mistakes. 
+On Friday, I was shown the actual Git Repository for the project the 
+company was working on. Instead of being amazed, I was quite disappointed. 
+It was a mess. Ergo, I took action. I proposed to my Industry Supervisor 
+to change some of the code architecture. While that has yet to be 
+implemented, I was able to convince them to change their current branching 
+methodology for the branching of their repository. Now, it is expected 
+to be much easier for developers to push code and make changes to the 
+project without interfering with each other.
+
+This was quite an event for me as I realised that sometimes, what I may 
+perceive as simple, may not be the first thing that comes to mind for 
+some developers. Thus, in the future, I realised that I would need to prepare 
+documentation such that it would be easier for me to articulate information across 
+in a way that people would understand why certain practices are required.
+
+Overall, this was an interesting week for me as with the increased amount of tasks given to me, 
+I was able to better understand even further on how the industry works, 
+and how people in an organisation work together to achieve a common goal.

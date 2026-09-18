@@ -1,0 +1,14 @@
+Setting up Project: 2hs
+The task for the morning was to go through the setting up of 
+the project for the development of a certain web application. 
+This included downloading Docker Desktop, setting up a 
+local Microsoft SQL server, and setting up my workplace github etc. 
+
+Fixing repo branches: 2hs
+I changed the project repository branches so that it 
+would be easier for future development. Previously, 
+it was developers making branches based on their name 
+on the main branch. Now, there is a branch for prod/ and 
+dev/ and the following branches will be based on what 
+features and fixes being implemented. 
+This task included explaining why the change was needed to my Industry Supervisor.
