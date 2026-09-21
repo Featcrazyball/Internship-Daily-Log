@@ -1,0 +1,14 @@
+Check if Website is vulnerable to newly released cve: 2hs
+A few days ago, a new vulnerability was found. My task 
+was to check if the hosted project by the company was vulnerable to that CVE.
+
+Update Development Documentation: 3hs
+Updated the documentation for developers to follow when updating 
+the code base of the project. This took more time than necessary 
+as there were some configuration issues, wasting a lot of time.
+
+
+Find Website Bug: 1h
+There has been an unsolved bug on the 
+website that has been unsolved since the 
+previous intern. The task is to find the bug.
