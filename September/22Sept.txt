@@ -1,0 +1,22 @@
+Check website for React2shell vunlerability: 15mins
+The task was to check if the website was vulnerable to React2Shell. 
+As the website is serving static files at /dist, the website is not vulnerable to React2Shell
+
+Fix password resetting: 30mins
+When the user resets password in the website, the user is directed 
+to a different URL instead of the proper one. The fix did not lie in
+me, but in the person deploying the website on the azure machine. 
+Thus, my task was completed when I emailed Mr Yew Mun the instructions 
+on how to prevent the redirecting from occuring.
+
+Fix exposed APIs: 2hs
+Admin level apis were able to be seen by 
+unauthenticated users in the compiled index.js 
+files for React, also known as the build folder. 
+My task was to fix this issue. I noticed that many 
+apis were called on an object, which bundled up 
+all the other APIs in the frontend. 
+The fix was to replace the use of the object with a simple function that fetches a specific endpoint.  
+
+Check for Exposed IP and azure frontend url in code: 30mins
+The task was to check if the code base included any exposed ip and the azure URL of the virtual machine. 
