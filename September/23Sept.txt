@@ -1,0 +1,22 @@
+Potential Client List: 1.5hs
+My task was to update an excel sheet and list down 
+about 100~ companies, specifically, administration 
+companies, that may be future customers. This task 
+was completed when I used UiPath to web scrap the 
+data off a website. Allowing me to save a lot of time.
+
+Fix exposed frontend APIs: 4hs
+The fix done the previous day was based on the removal of
+ 2 imported functions from another file.  However, my 
+superior wanted one of the functions to stay. I was able
+ to complete this task by changing the App.jsx file to not
+ check for authentication on public pages to stop the build 
+folder from loading all the admin level apis in the index javascript file. 
+
+Fix navigation bar not showing: 1h
+The website swapped from loading navigation bar options 
+from frontend to fetching the options from the backend. 
+However, the navigation bar disappeared instead. This 
+was fixed relatively quickly after I realised that the backend 
+code was not refreshed. After restarting the backend server, 
+it the task was completed as the navigation bar loaded again.
