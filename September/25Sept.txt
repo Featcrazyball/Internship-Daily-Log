@@ -1,0 +1,20 @@
+Dropdown menu when trying to assign role of new user displays incorrectly: 0.5hs
+The issue was the background of the select options 
+of the dropdown menu were white the text was also 
+white. This was fixed by changing the CSS of the select 
+elements in the frontend code to change the color to a readable format.
+
+Fix session not resetting when logging in twice: 0.5hs
+This task was completed by logging into an account 
+and signing up for an account on the web application. There 
+was no actual fix despite the weakness being logged in the 
+task list as there was no weakness. Likely that the weakness 
+was patched previously.
+
+Document Placeholder: 4hs
+I had to add a feature to the web application to replace the 
+placeholder in the docx through the code when the user
+ downloads the document. However, some issues arose while 
+development and thus this task was left unfinished. 
+The issues arose due to the lack of file organisation for uploaded files.
+This task should be completed soon before the end of next Monday latest.

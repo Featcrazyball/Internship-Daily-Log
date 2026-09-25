@@ -1,0 +1,19 @@
+This week, most of the tasks focused on the development, 
+or to be more specific, the fixing of various features of 
+the web application. Other than 1 task where a feature was 
+implemented but have yet to be completed. Most of the tasks 
+done in week 3 came from the task list excel sheet shared 
+previously by a previous intern. These tasks included:
+- Checking the website for React2Shell vulnerability
+- Check for website for a newly released cve
+- Fix exposed APIs
+- Check for exposed frontend URLs and IPs
+- I stated the fix for the URL redirect for the password resetting
+- Fixed navigation bar disappearing
+- Implemented a document placeholder feature when users download files for policies and evidence
+- Fixed user assign dropdown menu 
+- Fixed session not resetting when logging in twice 
+
+Other than said tasks, I also helped around 
+by contributing to a potential client list by 
+web scraping a website to gain information on Administration Companies.

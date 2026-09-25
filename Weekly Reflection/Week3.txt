@@ -1,0 +1,36 @@
+Compared to the previous 2 weeks, this week was more focused 
+on the company's web application project and its corresponding tasks. 
+
+For reference, on week 1, while the focus was also on the company's 
+web application project, it was like an entry point with no specific 
+task other than looking around. On the other hand, Week 2 was when 
+many tasks were issued, however, with not much relation to the project 
+other than a few where instead of looking at the code directly, I was 
+looking at their system architecture.
+
+In contrast, in week 3, I started focusing on the actual development 
+of the web application. Over the 5 days, I have been fixing many bugs, 
+and clearing the task list created by my predecessors. In addition, I 
+also did some additional work such as making a potential client list, 
+updating the documentation for developers, and testing the website for 
+vulnerabilities etc.
+
+Overall, there has still been few difficulties at work. 
+Most of the difficulties encountered has been encountered 
+before and was easily resolved with my experience. If 
+I had to state one difficulty, it would be the reliance of 
+AI. However, I am versed in Javascript and thus am easily 
+able to write code even if AI was not available from time to time.
+
+Honestly, there has yet to be an actual takeaway at 
+work other than a deeper understanding of how an organisation 
+functions and their excessive use of excel sheets. However, 
+if I had to state a takeaway, it would be that one should not 
+be over-reliant on a tool. If I had been over reliant on the use 
+of AI, I would have been very much unable to do work. Similarly, 
+this logic works on cloud services. Recently, Github flagged the 
+web application for a vulnerability due to a third-party dependency.  
+Thankfully, it is a common dependency with many other similar libraries. 
+
+Hence, in conclusion, my main takeaway for this week 
+would be the to not rely too much on third-party tools, especially AI.
