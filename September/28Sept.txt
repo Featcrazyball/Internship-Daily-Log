@@ -1,0 +1,26 @@
+Fix component not loading properly: 1h
+Due to React's lazy loading function, it resulted in a UX issue 
+in which when a user enters a certain page, the user has to 
+refresh the page for the component to fully load. Fortunately, 
+this was fixed quickly and now the web application can load 
+the component without the user refreshing.
+
+Coupon Captcha: 1h
+I completed this task by adding a captcha to the coupon. This 
+was implemented using Google's reCaptcha v2: Checkbox and 
+implemented on both backend and frontend.
+
+DOLA Vulnerability: 1h
+The architecture for the web application's routes were changed a 
+lot after fixing the weakness on frontend exposed APIs. Thus, 
+this vulnerability had to be fixed again. This task was completed 
+after nesting sensitive components with a certain component so 
+that users cannot access them without being a super admin.
+
+Fix Dropdown Menu background: 1h
+Previously, after fixing the assign user dropdown menu, more 
+dropdown menus were found while fixing other vulnerabilities. 
+This task was to fix the other dropdowns that had the same issue. 
+Note that the issue was that the background of the dropdown menu 
+and the color of the text of the options were the same, impeding the 
+user from choosing their options easily.
