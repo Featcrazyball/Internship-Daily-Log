@@ -24,3 +24,11 @@ This task was to fix the other dropdowns that had the same issue.
 Note that the issue was that the background of the dropdown menu 
 and the color of the text of the options were the same, impeding the 
 user from choosing their options easily.
+
+Document Placeholders: 2hs
+Implement a feature that when a user downloads a certain document, 
+it will replace all the placeholder in that document with their 
+respective values. This was also worked on the previous week. However, 
+I attempted to do the processing in the frontend and some issues occured. 
+Thus, today, I attempted to implement the feature through backend 
+processing. While it works now, there are still some issues.
