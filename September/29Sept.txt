@@ -1,0 +1,25 @@
+Documentation: 4hs
+Create documentation for Mr Yew Mun to implement 
+for production site and development site. 
+
+Eula Gate Error: 1h
+This task was to fix an error where only the admin 
+and super-admins can log in while other users are 
+unable to login due to EULA. This was fixed after 
+adding proper EULA handling.
+
+Document Placeholders: 1h
+Fixed all the bugs from implementation and finished 
+implementing the feature. Now when user wants to download 
+the template, all the placeholders in the document will 
+be replaced with the proper values.
+
+Unnecessary fetch: 0.5
+There was an issue where the user kept calling 
+an API every 5s despite it always returning 403. 
+Thus the task was completed when I made it so that 
+the frontend only calls the API if the user logged 
+in is not the "user" role as this API is required for other roles.
+
+Website Reconnaissance: 2h
+I had to look around a client's website to prepare for a vulnerability assessment.
