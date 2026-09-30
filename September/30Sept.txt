@@ -1,0 +1,6 @@
+Reconnaissance: 4hs
+I have to conduct reconnaissance on a customer's 
+web application. This is to prepare for Vulnerability Assessment on a later date.
+
+Workshop Assistance: 2hs
+Assist other consultants in conducting a virtual workshop for the company.
