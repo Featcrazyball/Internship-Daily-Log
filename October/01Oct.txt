@@ -1,0 +1,17 @@
+Prepare for Pitch: 2h
+Mr Yew Mun is preparing for a presentation tomorrow to a Singapore Telcom 
+Company. My task is to look through the flow of the presentation and give 
+insights. And then proceed to fix the bugs of the web application if there 
+are any. The bug fixing took the most of the time.
+
+Fix Risk Feature: 3h
+One of the sections of the web application has a lot of holes in its code. 
+This section of the website was for the user to list down what project they 
+are taking on and fill in the blanks for the web application to list down 
+the risks based on their current actions. The initial task was to fix one bug, 
+but then I found more and more and fixed them all.
+
+Fix AI Document Processing: 2hs
+One of the features of the web application includes AI document processing. 
+However, there was a few bugs including not processing properly, 
+not being able to view the results etc. So I fixed them all. (/data-collection-forms)
