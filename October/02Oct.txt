@@ -1,4 +1,4 @@
-Fix Scanner: 1h
+Fix Scanner: 2hs
 One of the functions of the web application is to download a scanner 
 that can scan through one's personal computer and look for sensitive 
 information. However, the scanner was flagging some items despite not 
