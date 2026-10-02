@@ -1,0 +1,41 @@
+Compared to the previous 3 weeks, this week was significantly more 
+eventful. This is the week that my accumulated efforts came to 
+fruition with my Industry Supervisor's presentation of the web 
+application to a Singapore telco company. To sum up the previous 
+3 weeks, week 1 was about understanding the web application from 
+the user's point of view. Week 2 was about seeing how Momentum Z 
+functions as an organisation. Finally, Week 3 focused on the hosted 
+web application's system architecture and, at the end of the week, 
+getting into the codebase.
+
+This week, I finally started fixing major vulnerabilities in the web 
+application. At the beginning of the week, specifically Monday and Tuesday, 
+the number of bugs I fixed almost reached 2 digits. Those bugs included 
+Broken Function Level Authorisation (a bug where regular users could access 
+admin pages and functions without proper permissions), a EULA Gate error 
+(a bug where users couldn't log in properly), and a few bugs where some 
+components were not loading properly. I also implemented a bunch of features 
+such as replacing placeholders in documents with their proper values stored 
+in the web application, docx processing for Artificial Intelligence, and report 
+generation.
+
+Once again, as seen from the tasks I completed above, this week has been 
+significantly more eventful compared to the previous 3 weeks. I would like 
+to add that the most eventful day this week was Thursday. As the day right 
+before the presentation on Friday, I had to look through the website again 
+and list all the bugs. And somehow, fate decided to pull a prank, and I found a 
+lot of issues regarding the features of the website. In the end, I had to work 
+till late at night. I was fortunate that Tuesdays and Thursdays were work-from-home 
+days, or else I would have wasted more time commuting instead of doing productive 
+work.
+
+This experience felt very similar to the night before a school project presentation, 
+when everyone rushes to fix last-minute problems. It showed me that while school and 
+work are very different environments, the same habits, like leaving testing until the 
+end, lead to the same stressful outcomes. 
+
+The key lesson I took away is the importance of testing and reviewing my work regularly 
+rather than only right before a deadline. It also made me realise that even as an intern, 
+my work directly affects real outcomes, since it was being presented to an actual client. 
+Moving forward, I want to take more ownership of the quality of my work and prepare early 
+so that I am ready when moments like this come.

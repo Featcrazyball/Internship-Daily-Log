@@ -1,0 +1,10 @@
+This week, I mainly focused on the development of the web application Momentum Z 
+intends to sell as a product. This included fixing bugs and adding features. 
+Due to the many different bugs fixed over the week, I am unable to list all of 
+them. The tasks listed in the elog only included the major vulnerabilities such 
+as the BOLA Vulnerability, AI document processing, and some login errors. 
+
+In addition, I also conducted reconnaissance on 2 web applications to prepare 
+for the Vulnerability Assessments. Not to mention, I also participated in the 
+preparations for the demo regarding another Singaporean telco company on Friday 
+and assisted in the Virtual Workshop on Wednesday.

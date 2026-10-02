@@ -1,0 +1,11 @@
+Fix Scanner: 1h
+One of the functions of the web application is to download a scanner 
+that can scan through one's personal computer and look for sensitive 
+information. However, the scanner was flagging some items despite not 
+being considered sensitive information. My task was to fix that. This 
+task was completed after changing the regex of the scanner.
+
+Recon Web Application: 4hs
+A new client has arrived and asked for a Vulnerability Assessment and 
+Penetration Testing. My task is to conduct reconnaissance for the web 
+application for further testing the coming week.
