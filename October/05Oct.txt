@@ -1,0 +1,22 @@
+Enhanced Feature: 1h
+Using React, I enhanced one of the web application's features. 
+This feature involved downloading of DOCX. However, I made it 
+so that the user can preview the DOCX directly in the website 
+before actual download. Note that this task is not completed.
+
+Email Campaign: 2hs
+Together with my fellow internships, we reached out to various organisation 
+to introduce the web application Momentum Z has been working on for the past few months. 
+
+Improving UI of web app: 3h
+Using React, I improved some of the user interface features of the web application. 
+This is to make a more comfortable user experience. 
+
+Fixing Domain Redirection: 0.5h
+I fixed a long-standing issue where the web application was redirecting to the wrong domain. 
+
+Web application testing: 2hs
+Last week, I was assigned a lot of tasks in the task list. Many of these tasks were 
+to test for vulnerabilities and bugs. These tasks included how the web application 
+handled 2 or more objects being loaded, whether an attacker can use an exposed ID to 
+query for information and others.
