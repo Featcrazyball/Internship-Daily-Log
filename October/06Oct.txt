@@ -1,0 +1,15 @@
+AI Response Formatting: 1h
+Currently, the chatbot in the web application returns raw text. I 
+completed this task by updating the frontend to better process the AI's 
+response such that it is formatted in a way that is more professional.
+
+UI Update: 5h
+I updated the User Interface of multiple features of the web application 
+to provide a better user experience. This was unlike the previous tasks 
+where I tweaked the UI a bit. Instead, I conducted a major overhaul based 
+on the UI principles I learnt from school.
+
+Better filter: 1h
+One of the features of the web application included allowing the user to 
+generate templates. There are many different templates. Thus, I included a 
+feature to better filter the templates for a better user experience.
