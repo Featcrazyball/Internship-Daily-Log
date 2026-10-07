@@ -1,0 +1,17 @@
+AI configuration: 2h
+There was a misconfiguration in the web application that resulted in the 
+AI returning a false value. This task took time as I was not previously 
+involved in the backend code so it took time for me to break down the logic 
+of the AI feature. This task was completed after fixing the misconfiguration 
+in the backend code.
+
+UI consistency: 2h
+Throughout a few pages, the UI was not formatted in a consistent manner. 
+Thus, this task was to fix the consistency of the User Interface throughout 
+multiple pages.
+
+Web Scraping: 2h
+To prepare for more email campaigns, my task was to search for potential 
+clients for the web application the company wants to promote. I had to 
+search up for organisations in the properties and IT industry. This took 
+more time as I needed to clean the web scrapped excel sheets.
