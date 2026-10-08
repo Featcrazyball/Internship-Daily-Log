@@ -1,0 +1,14 @@
+Fix Scoring Assessment: 2hs
+There is an issue with the computation of the score in the 
+assessment of one of the web application's features. This 
+task was to fix it.
+
+Compile tools: 2hs
+I was asked to compile the tools I use for red teaming for my 
+Industry Supervisor's Vulnerability Assessment and Penetration 
+Testing. This is because he would like to reference it for his own use.
+
+Light and Dark Mode: 4hs
+I implemented a light and dark mode feature. This task took a long 
+time as this is a feature that should have been decided at the start 
+of development. Thus, many files were required to be changed in this task.
