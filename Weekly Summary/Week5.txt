@@ -1,0 +1,13 @@
+This week, other than Friday, where most of the day was spent 
+preparing for the presentation to Mr Shane, the other days were spent
+editing the User Interface of the web application. I have performed
+major reformations across the website on Monday, Tuesday, Wednesday and Thursday.
+Those reformations included:
+- Changing the layout of multiple pages
+- Adding formatting to AI responses
+- Adding the Light and Dark mode theme
+- Adding better filters for some of the features of the website.
+
+I have also done some other smaller tasks such as compiling the red teaming
+tools that I use and sending it to Mr Yew Mun, and helping the other interns
+in their email campaign.

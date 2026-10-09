@@ -1,0 +1,16 @@
+[16:41, 09/10/2026] Feat: Fix Font Size Scaling: 2h
+The web application has a small feature where the user 
+can go to Settings to edit the font size. This is something 
+that should be planned before actual development. However, 
+it was not. Thus, this task only changed the font size of 
+the settings page as the other pages require layout changes 
+and complex CSS.
+
+Marketing Presentation: 5hs
+Our CEO gave all the interns a task of coming up 
+with ideas to get more customers for the web application 
+being developed. This task took 5 hours, as we had to 
+prepare and present them to him. We interns separated into 
+groups of 2 and 3 and presented together. The preparation 
+took most of the time allocated to this task as I had to dig 
+through for an old school project and use it for demonstration.
