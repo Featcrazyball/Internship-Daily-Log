@@ -1,0 +1,20 @@
+Modal UI Update: 1h
+According to one of the full-time employees who specialises in marketing, 
+she mentioned that when the user first logs in, it is very difficult to 
+process the information. So I updated the modal to make the information 
+easier to process for better user experience.
+
+Email Reminder: 2h
+I implemented a feature to email users to remind them to 
+complete their onboarding steps.
+
+Input validation: 2h
+This task addresses an issue with date validation in the web application, 
+where the start date could accidentally be set after the end date (or vice versa). 
+This bug was easy to fix. However, most of the time used for this task was 
+spent searching for every instance of this bug.
+
+Marketing Ideas: 2h
+The other interns have been sending out email campaigns to attract customers 
+for the web app. However, they have not been effective. The task was to 
+generate ideas to find other ways to find people who are interested in the service.
