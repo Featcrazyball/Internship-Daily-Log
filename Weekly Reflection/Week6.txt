@@ -1,0 +1,37 @@
+Compared to previous weeks, this week was far more eventful. While the tasks 
+themselves were simple, they were exhausting for an introvert like me. From 
+Tuesday to Thursday, I was at the Marina Bay Sands Expo and Convention Centre 
+for GovWare, marketing the web application developed by Momentum Z. This needed
+a completely different skill set from what I have learnt in school. Every time 
+I approached a stranger to explain our product, I had to work up the courage first. 
+Monday and Friday were just as packed, with fixing user interface bugs, brainstorming 
+ideas and preparing presentations.
+
+Overall, this was probably the most tiring week of my internship, but also one of 
+the most rewarding. Apart from the many freebies, GovWare at Singapore International 
+Cyber Week exposed me to industry leaders and new technologies. It also showed me 
+that my efforts at Nanyang Polytechnic were paying off.
+
+At NYP, I put a lot of effort into going beyond what my modules required, which gave 
+me a strong foundation in software development. Even though GovWare is a cybersecurity 
+event, I could combine that foundation with my Cybersecurity specialisation (Y3S1) 
+to spot patterns between how the solutions on display were built and how I had led my own 
+project teams. This became especially clear when I spoke with an industry specialist from 
+InsiderSecurity. He believed that solutions should be built around what the customer actually 
+needs, not around what the developer thinks is a good idea. This matches NYP's recent 
+change for Year 2 students, who now build web applications based on real company problem 
+statements instead of the usual sustainability theme. Hearing the same idea from someone in the 
+industry convinced me that it is the right way to build.
+
+I also saw many interesting new solutions, and most of them used AI. Many booths used AI to 
+support Cyber Threat Intelligence, and others used it for Endpoint Detection and Response. 
+While neither idea is new, talking to the exhibitors gave me a much deeper understanding of 
+how these solutions were designed and how they are actually deployed.
+
+The moment that stayed with me the most happened on Wednesday. A man from the jewellery industry, 
+with no background in IT, told me he wanted to build a super app for the whole of ASEAN, combining 
+WeChat, WhatsApp, Shopee and Grab into one. He said the idea was for humanity, and that he felt the 
+universe was calling him to do it. At first, I simply thought the world was full of eccentric people. 
+Looking back, it taught me something more useful, having a big vision is very different from understanding 
+what it takes to build it, or whether people actually need it. That connects directly to what I learnt 
+from InsiderSecurity. A good solution starts from a real problem, not from one person's passion.

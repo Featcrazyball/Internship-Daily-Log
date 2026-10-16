@@ -1,0 +1,12 @@
+Web scrap aftermath: 4hs
+This task is given after web scraping the potential clients. I had to 
+check which IT companies are competitors with Momentum Z. I had a whole 
+Excel file to check with hundreds of records.
+
+Presentation: 1h
+We had to present our findings to our CEO about our journey in Govware.
+
+Company Research: 2hs
+Previously, us interns sent some emails to potential customers. Today, is the 
+excel file we used to track who we sent emails to, we had to enter the 
+company's address, city, country and uen.

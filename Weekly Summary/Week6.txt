@@ -1,0 +1,9 @@
+This week, most of the tasks were focused on SICW Govware. Other than Monday, when I fixed some bugs and UI edits on 
+the web application, and Friday, where other than looking for material that is similar to Singapore's PDPA for other countries.
+
+Monday web application updates:
+- Daily Modal Update
+- Input validation for date inputs
+- Email reminder
+The implementation of the email reminder feature was postponed to ensure we thoroughly 
+address all user experience and technical requirements before developing it
