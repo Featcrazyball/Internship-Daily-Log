@@ -1,0 +1,20 @@
+Privilege and Vision Check: 1h
+The task was to check what every user role had the ability to view and edit in the web application.
+
+Govware Thank You: 2h
+Together with the other interns, we were given the task of creating a thank-you presentation n
+ote to the people we met in SICW.
+
+Plan for Agents: 1h
+The web application has agentic features. However, they are not perfect. My task was to 
+figure out the underlying logic to make it better and safe for the customer.
+
+Fix Dark Mode UI: 1h
+Implemented Dark Mode support for a newly implemented feature by another developer.
+
+Email Template for Thanks: 1h
+Created an email template to thank everyone who came to our booth on Govware
+
+Email Template for Leads: 1h
+Created an email template to follow up on previous emails for marketing the web applications. 
+This is the 3rd email template. the other interns did the first and second.
