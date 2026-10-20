@@ -2,8 +2,8 @@ Privilege and Vision Check: 1h
 The task was to check what every user role had the ability to view and edit in the web application.
 
 Govware Thank You: 2h
-Together with the other interns, we were given the task of creating a thank-you presentation n
-ote to the people we met in SICW.
+Together with the other interns, we were given the task of creating a thank-you presentation 
+note to the people we met in SICW.
 
 Plan for Agents: 1h
 The web application has agentic features. However, they are not perfect. My task was to 

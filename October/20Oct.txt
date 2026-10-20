@@ -1,0 +1,19 @@
+Check News Code: 1h
+One of the features of the web application is able to 
+fetch news everyday. This was implemented by a previous 
+developer and my task was to understand how it works for future updates.
+
+Research Codebase: 1h
+Research Github on how to segregate the codebase such 
+that future developers have limited access to more sensitive code.
+
+Writeup: 3hs
+Write up about “AI, Truth and Trust: Can We Still Believe 
+What We See?”. Wrote about 1000 words without the use of AI.
+
+Vulnerability Proposal: 1h
+Proposed implementation to fix a certain vulnerability.
+
+macOS VM install: 2h
+Spent 2 hours attempting to install a macOS VM on VMware 
+Workstation so we could test a feature of the web application.
