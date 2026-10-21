@@ -1,0 +1,13 @@
+Testing features: 2hs
+Another developer has developed a few features. Due 
+to his lack of time, I was tasked with testing the 
+features he implemented.
+
+Presentation Slides: 3hs
+To prepare for the presentation on Friday, I created slides.
+
+Fix feature: 2h
+One of the features of the web application was to fetch 
+html from a news website for users to see what is happening 
+daily. However, according to customers, it was too technical. 
+Thus, my task was to use AI to simplify it for every user who logs in.
