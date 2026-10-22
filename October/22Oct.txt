@@ -1,0 +1,7 @@
+Revamp Agent: 3hs
+I revamped how the website's agent works for better client security.
+
+Detect Client Website Vulnerability: 3hs
+Yesterday, a 9.2/10 vulnerability was posted by CSA. My task was 
+to partner with another intern to check the client list to see 
+whether their websites were vulnerable to the exploit.
