@@ -1,0 +1,14 @@
+Agent Development: 3hs
+Continuing from yesterday's task, I continued to work on the 
+Agentic feature of the web application by changing how the user 
+downloads it in Go (a different programming language). I also made 
+some UI edits on the web application to better fit the current Agentic 
+feature and current user flow.
+
+Presentation: 2hs
+I presented my reflection and slides regarding "AI, Truth and 
+Trust: Can we still believe what we see?" with the other interns.
+
+User Role Slides: 2hs
+I created a slide deck for a vendor regarding what a certain user 
+role has access to on the web application.

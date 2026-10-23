@@ -1,0 +1,47 @@
+This week felt like a turning point in my internship. Unlike previous weeks, 
+where most of my work focused on the user interface, I spent more time on 
+the logic behind the web application, especially its Agentic feature. In 
+addition, I presented my own reflection on “AI, Truth and Trust: Can We 
+Still Believe What We See?”, which taught me more about myself as a presenter 
+than I had expected.
+
+The first learning point came from Friday’s presentation. While writing my 1000-word 
+piece without AI, I focused heavily on ideas and arguments. However, when I presented 
+alongside the other interns, I realised that ideas alone are not convincing enough. 
+The presentations that stood out used numbers, such as statistics on deepfakes or money 
+lost to AI-generated scams. Numbers turn an opinion into evidence and give the audience 
+something concrete to remember. While I also included numbers, I focused more on dates 
+and facts, such as the amount of money lost rather than statistics from surveys.
+
+Furthermore, I understood the importance of body language much better. In Week 5, I 
+received feedback on my body language, so this week I was more conscious of my posture, 
+hand movements and eye contact. I noticed that the audience was more engaged when I faced 
+them rather than the slides. As an introvert, presenting does not come naturally to me, 
+so this is a weakness I need to keep working on. 
+
+The second learning point was technical. To make the Agentic feature easier and safer for 
+customers, I changed how the agent is downloaded by rewriting it in Go, a language I had never 
+used before. At NYP, the two languages taught the most are Python and JavaScript. Both are 
+great for building applications quickly. However, they need a runtime, such as Python or 
+Node.js, installed on the user’s device. Go, on the other hand, compiles into a single executable 
+that runs without any extra installation. It can also be compiled for Windows, macOS and Linux 
+from one machine, which is exactly what a downloadable agent needs. 
+
+In addition, Go is generally much faster than Python and has built-in support for running many 
+tasks at once through goroutines. Compared to C#, which is also compiled and fast, Go is noticeably 
+simpler. However, C# offers more features, such as a richer object-oriented design, and traditionally 
+relies on the .NET runtime, while Go keeps its syntax small, which made it surprisingly quick to pick 
+up. Nevertheless, Go is not a replacement for everything. Python is still better for AI and data work, 
+while JavaScript remains the language of the web. This taught me that a good developer chooses a language 
+based on the problem, not on familiarity, which links back to what I learnt from InsiderSecurity in Week 6. 
+
+Apart from these, this week showed me how quickly priorities can change at work. On Thursday, after 
+CSA posted a 9.2/10 vulnerability, another intern and I had to check whether our clients’ websites were 
+affected. Meanwhile, I also created a slide deck for a vendor on what a certain user role can access. This 
+reminded me that a developer must also explain their work clearly to non-technical people, which connects
+back to the presentation skills I am improving.
+
+Before I end off, I would like to say that this week brought me closer to the challenge I hoped 
+for in Week 5. Learning a new language on the job was not something my experience alone could 
+solve, yet I still delivered a working result. Moving forward, I hope to keep stepping out of my 
+comfort zone, both in code and in front of an audience.

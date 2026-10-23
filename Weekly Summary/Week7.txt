@@ -1,0 +1,14 @@
+This week, most of my time was split between the Agentic feature of the web application, Govware follow-ups and preparing for Friday’s presentation.
+
+Web application updates:
+- Planned and revamped how the agent works for better client security
+- Rewrote how users download the agent in Go
+- Made UI edits to fit the Agentic feature and current user flow
+- Used AI to simplify the daily news feature for customers
+- Added Dark Mode support for another developer’s feature and tested his features
+
+Other tasks:
+- Checked user role permissions and created a slide deck on a certain user role 
+- Created Govware thank-you slides and email templates 
+- Checked client websites against a 9.2/10 vulnerability posted by CSA
+- Presented my reflection on “AI, Truth and Trust” to Shane
