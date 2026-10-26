@@ -1,0 +1,13 @@
+Test Feature: 3hs
+Another developer has developed multiple features. My task 
+was to test the feature for bugs.
+
+Prepare for Network VA: 3hs
+Get ready for network vulnerability assessment. This includes 
+creating a flow for the network VA, and reviewing an automated 
+script that my superior sent me. In addition, I was to also 
+set up a laptop for the Vulnerability Assessment.
+
+Distributed Systems Proposal: 2hs
+I sent an email to Mr Yew Mun on what services and how we should 
+implement distributed systems as the company acquires more customers.
