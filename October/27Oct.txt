@@ -1,0 +1,5 @@
+Review Comments: 1h
+Several Momentum Z employees reviewed the web application and left feedback. My task was to propose solutions to the issues they raised
+
+Implement Batch Processing: 3hs
+I was tasked to implement a feature based on a comment by a colleague. This feature was regarding batch processing of uploaded documents.
