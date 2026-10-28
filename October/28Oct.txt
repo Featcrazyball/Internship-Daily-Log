@@ -1,0 +1,11 @@
+SME@SCCCI workshop: 4hs
+Mr Yew Mun has a talk at SME Centre today. The other interns and 
+I were tasked in assisting him during the workshop. This including 
+networking, offering support to the audience and introducing our company etc.
+
+"Other" feature: 2hs
+I was tasked with imolementing a feature regarding what happens after 
+the user clicks "Othwr" in the dropdown. This is a simple feature that 
+allows the user to enter thwir own entry instead of choosing one from the 
+dropdown. This task took more time than expected as I had some issues with 
+the UI and had to edit it as well.
