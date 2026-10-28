@@ -4,8 +4,8 @@ I were tasked in assisting him during the workshop. This including
 networking, offering support to the audience and introducing our company etc.
 
 "Other" feature: 2hs
-I was tasked with imolementing a feature regarding what happens after 
-the user clicks "Othwr" in the dropdown. This is a simple feature that 
-allows the user to enter thwir own entry instead of choosing one from the 
-dropdown. This task took more time than expected as I had some issues with 
-the UI and had to edit it as well.
+I was tasked with implementing a feature regarding what happens 
+after the user clicks "Other" in the dropdown. This is a simple 
+feature that allows the user to enter their own entry instead of 
+choosing one from the dropdown. This task took more time than expected 
+as I had some issues with the UI and had to edit it as well.
