@@ -1,0 +1,2 @@
+Network Vulnerability Assessment: 5hs
+I was tasked with accompanying Mr Yew Mun to a client's office to conduct a vulnerability assessment on their network.
