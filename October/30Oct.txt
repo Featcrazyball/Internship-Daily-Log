@@ -1,0 +1,18 @@
+VA Report: 4 hrs
+I wrote 2 reports based on my findings from the previous day. One for technical 
+and another for non-technical stakeholders. This report includes the company's 
+forward plan with the client's penetration testing.
+
+Mudra Band Test: 1hs
+I tested a NeuroBand device that a colleague passed to me. My task was to 
+observe how it worked and to broaden my horizons.
+
+Feature testing: 2hrs
+One of the web application's core features utilised AI to analyse documents and 
+extract insights based on predetermined clauses. However, there seemed to be 
+an issue with the returned results. So, my task was to test this feature using 
+other documents instead of the web application's provided templates.
+
+Virtual Workshop Assistance: 1h
+Similar to the previous month, I was tasked with assisting the other 
+interns in the virtual workshop the company does monthly.
