@@ -1,0 +1,15 @@
+This week, most of my time was spent on client-facing tasks with Mr Yew Mun, while the remaining time was spent on the web application.
+
+Client and company tasks:
+- Assisted Mr Yew Mun at the SME Centre@SCCCI workshop by networking and introducing our company
+- Prepared for and conducted a network vulnerability assessment at a client’s office
+- Wrote two VA reports, one technical and one non-technical, including the company’s forward plan for the client’s penetration testing
+- Sent and explained a proposal on implementing distributed systems as the company grows
+- Assisted the other interns in the monthly virtual workshop
+- Tested a Mudra Band
+
+Web application updates:
+- Proposed solutions to feedback from Momentum Z employees
+- Implemented batch processing of uploaded documents
+- Implemented the “Other” dropdown option and fixed related UI issues
+- Tested features from another developer and the AI document analysis feature with non-template documents

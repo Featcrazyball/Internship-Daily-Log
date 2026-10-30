@@ -1,0 +1,38 @@
+This week, I spent much less time in front of my laptop than usual. On Wednesday, the other 
+interns and I assisted Mr Yew Mun during his talk at the SME Centre@SCCCI. On Thursday, I 
+accompanied him to a client’s office to conduct a network vulnerability assessment, and on 
+Friday, I wrote two reports based on our findings, one for technical and another for non-technical 
+stakeholders. In between, I implemented features on the web application, sent Mr Yew Mun a 
+proposal on distributed systems and tested a Mudra Band that a colleague passed to me.
+
+The first significant moment was the SME workshop. During Govware in Week 6, I had to work up 
+the courage every time I approached a stranger. However, at the SME Centre, I noticed that I was 
+much more comfortable networking, offering support to the audience and introducing our company. 
+While I am still an introvert, this showed me that social skills can be trained just like technical 
+skills. Furthermore, it built on the body language lessons from last week’s presentation, as I made a 
+conscious effort to maintain eye contact and keep an open posture.
+
+The second was the network vulnerability assessment. Until now, my work has mostly revolved around one web 
+application. Being exposed to a real client’s network gave me a much broader view of how organisations 
+actually set up their infrastructure, which is often very different from the clean lab environments I used at 
+NYP. In addition, writing two separate reports for the same findings taught me that the same information must 
+be presented differently depending on the audience. This connects directly to my Cybersecurity specialisation, 
+where I learnt the theory but rarely had to explain findings to a real client.
+
+The third was the Mudra Band, a wristband that reads signals from the wrist to control devices through finger gestures. 
+Honestly, it was not very practical for daily use, as we currently work on 2D screens where a mouse and keyboard are 
+faster. Nevertheless, I could see how useful it would be in the future when we move towards 3D interfaces, such as 
+augmented and virtual reality, where there is no physical surface to type or click on. This reminded me that a technology 
+should be judged by the problem it is meant to solve, not only by how well it fits today’s tools.
+
+Lastly, the distributed systems proposal was a valuable experience. As the company acquires more customers, the web 
+application will need to handle a heavier load. When I explained my proposal to Mr Yew Mun, I realised that putting my 
+ideas into words forced me to fill gaps in my own understanding. Thus, articulating my thoughts to someone else helped
+me understand them better myself.
+
+So, what have I learnt? Firstly, my communication skills have improved, both when talking to strangers and when 
+explaining technical ideas to my superior. Secondly, seeing a client’s network showed me that real-world environments 
+are messier than what textbooks describe. Moving forward, I will continue volunteering for client-facing tasks, 
+as they are where I grow the most. In addition, I plan to write down and explain my ideas to a colleague before 
+proposing them, since this week proved that it sharpens my thinking. Finally, I would like to read further into 
+distributed systems so that my next proposal is backed by stronger technical reasoning.
