@@ -1,0 +1,11 @@
+Improved AI Assessment: 4hs
+On the previous week, I found a few issues with one of the web application's 
+core features that utilised AI to analyse documents and extract insights 
+based on predetermined clauses. Thus, I figured out the underlying logic 
+for the code that used the AI and improved it to deliver a better output.
+
+System Design: 4hs
+Used available time to self-study cloud computing, cloud architecture, 
+and system design concepts (e.g. horizontal scaling, load balancing, 
+caching, and database replication). Applied this learning to help revise 
+the organisation’s web application system architecture across two iterations.
