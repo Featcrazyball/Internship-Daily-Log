@@ -1,0 +1,17 @@
+Cyber Essentials for Client: 3hs
+I had to use the web application Momentum Z developed to run 
+checks on a client's document to see if they are eligible for 
+Cyber Essentials. Although I was using the web application to 
+scan through the clauses, it still took a long time as there 
+were many clauses.
+
+DOC support: 2hs
+I had implemented support for another file type, DOC 
+as the web application does not currently support it.
+
+Cyber Trust Mark Scanning for Client: 2hs
+I had to use the web application Momentum Z developed to run 
+checks on a client's document to see if they are eligible for 
+Cyber Trust Mark certification. Although I was using the web 
+application to scan through the clauses, it still took a long 
+time as there were many clauses.
