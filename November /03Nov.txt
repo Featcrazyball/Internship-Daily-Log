@@ -1,0 +1,17 @@
+Meeting: 1h
+Mr Yew Mun and I had about a 1 hour meeting to discuss my work 
+regarding a feature of the web application and what to do for the day.
+
+Fix Bugs: 1h
+Fixed a few small frontend bugs regarding a feature of the web application.
+
+Partial Scoring Changes: 1h 
+I changed the scoring system of one of the features of the web 
+application to provide more accurate results
+
+New feature: 4hs
+I am implementing a new feature of the web application. This feature 
+is a whole new section of the web application that requires a lot of work 
+due to its main feature. It involves creating diagrams based on the available 
+information of the user and their organisation while also allowing them to 
+edit said diagrams.
