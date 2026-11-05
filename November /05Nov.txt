@@ -7,11 +7,13 @@ re-accessing specific clauses etc.
 
 Adjust feature: 1h
 2 days ago, I implemented a whole new feature to the web application.
-I was tasked with adjusting it so only certain client tiers can use that feature.
+I was tasked with adjusting it so only certain client 
+tiers can use that feature.
 
 Added OCR feature: 2h
 Added a feature that allows the user to send an image of hardware 
 and add it to their organisation in the web application
 
 CTM Scan: 1h
-Based on my changes to the code, I ran a CyberTrust Mark scan on some documents.
+Based on my changes to the code, I ran a CyberTrust 
+Mark scan on some documents.
