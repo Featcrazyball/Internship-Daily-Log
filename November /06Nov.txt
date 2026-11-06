@@ -1,0 +1,24 @@
+Recreate Bugs: 1h
+Another employee was able to find a bug. However, I was unable to recreate the bug despite executing 
+the same actions. I spent 1 hour trying to find a way to recreate the error. In the end, I was unable to recreate the error.
+
+Improved User Experience: 2hs
+I added features to the organisation's web application document-scanning feature to improve the user flow. 
+
+Presentation: 1h
+I presented the basics of networking to my colleagues. While the team provided excellent feedback, 
+the experience highlighted several areas for my own growth. I realised I could improve future 
+presentations by including a clearer problem statement, a stronger summary, and direct links to 
+relevant incident reports so attendees can easily access additional context
+
+Manipulation of diagrams using AI: 2h
+As mentioned before, I implemented a feature in the web application for users to generate certain 
+diagrams based on their information. This was powered with AI. However, the AI could only generate 
+into the canvas but was unable to edit it. I configured the feature to allow the AI to edit the 
+diagram on the canvas as well.
+
+Improved Generation of Network Diagrams: 2h
+I was tasked with developing a conversational discovery workflow for the AI network diagram generator. 
+Instead of requiring users to upload comprehensive information or write complex technical prompts, the 
+AI will now dynamically guide users through a series of simple, intuitive questions to automatically 
+generate the diagram.
