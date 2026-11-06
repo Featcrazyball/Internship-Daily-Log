@@ -1,0 +1,16 @@
+This week, most of my time was spent developing new features for the web application, while the rest was spent using it to run compliance checks for a client.
+
+Web application updates:
+- Improved the logic behind the AI document analysis feature to deliver better output
+- Changed the scoring system of a feature to provide more accurate results
+- Started building a new section that uses AI to generate network diagrams, then restricted it to certain client tiers
+- Allowed the AI to edit diagrams on the canvas, and added a conversational workflow that guides users through simple questions to generate them
+- Added DOC file support 
+- Added OCR feature to add hardware to an organisation from an image
+- Improved the document scanner with document generation for missing items, better recommendations, re-accessing specific clauses and a better user flow
+- Fixed a few small frontend bugs and attempted to recreate a bug found by another employee
+
+Other tasks:
+- Ran Cyber Essentials and Cyber Trust Mark scans on a client’s documents using the web application
+- Self-studied cloud architecture and system design, and helped revise the company’s system architecture across two iterations
+- Presented the basics of networking to my colleagues
