@@ -1,0 +1,49 @@
+Compared to last week, where I spent most of my time outside the office, this 
+week brought me back to the web application. However, this time it was different. 
+Instead of only being the developer, I also became a user of the web application. 
+On Wednesday, I used it to check a client’s documents for Cyber Essentials and 
+Cyber Trust Mark eligibility. Apart from that, I started building a whole new section 
+of the web application that uses AI to generate and edit network diagrams,
+self-studied system design, and presented the basics of networking to my colleagues 
+on Friday.
+
+The most significant moment this week was using our own web application for a real client. 
+Although the web application scanned through the clauses for me, it still took hours as 
+there were many clauses. Honestly, this was quite humbling. As a developer, I had tested 
+these features many times, but always with short sample documents. It was only when I used 
+it for actual work that I felt how slow and repetitive it was. Thus, the very next day, I 
+implemented improvements such as generating documents based on what is lacking, better 
+recommendations and the ability to re-access specific clauses. To put it in simple terms, 
+it is like a chef who never tastes his own food. He may follow the recipe perfectly, yet he 
+will never know that it is too salty. This links back to what I learnt from InsiderSecurity 
+in Week 6, where solutions should be built around what the customer actually needs. The same 
+idea shaped the network diagram generator. Instead of expecting users to write complex 
+technical prompts, I built a workflow where the AI guides them through simple questions.
+
+Next, I would like to mention that I followed through on one of my action items from last week. 
+In Week 8, I said I wanted to read further into distributed systems. On Monday, I used my available 
+time to self-study cloud architecture and system design concepts, such as horizontal scaling, load 
+balancing, caching and database replication. I then applied them to help revise the company’s system 
+architecture across two iterations. This felt very rewarding, as it was the first time an action 
+item I had written in a reflection turned into actual work.
+
+On the other hand, not everything went smoothly. On Friday, I spent an hour trying to recreate a 
+bug that another employee found, but I was unable to do so. In school, every bug I encountered was 
+on my own machine, so I could always see it happen. In the workplace, the person who finds the bug 
+and the person who fixes it are often different people, with different devices and data. Furthermore, 
+my networking presentation, while well received, showed that I still have room to grow. My colleagues’ 
+feedback was that it needed a clearer problem statement, a stronger summary and links to relevant incident 
+reports. Looking back, I focused so much on explaining the concepts that I forgot to explain why the 
+audience should care.
+
+So, what have I learnt? Firstly, the best way to find the weaknesses of a product is to use it for real 
+work. Secondly, self-study is only meaningful when it is applied, and my system design learning proved 
+that. Thirdly, a presentation should start with a problem, not with the content. Coming from Montfort, 
+I have always stuck by the motto “Age Quod Agis”, meaning do well in whatever you do, and this week reminded 
+me that doing well also means looking at my work from the user’s and the audience’s point of view.
+
+Moving forward, I will use every feature I build on a real or realistic document before marking it as complete. 
+In addition, when a bug cannot be recreated, I will ask for the exact steps, browser, account and screenshots 
+before spending time on it, and suggest adding better error logging to the web application. Finally, for my 
+next presentation, I will open with a real incident as the problem statement and end with a summary slide, so 
+that my colleagues know exactly what to take away.
