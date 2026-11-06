@@ -42,8 +42,5 @@ that. Thirdly, a presentation should start with a problem, not with the content.
 I have always stuck by the motto “Age Quod Agis”, meaning do well in whatever you do, and this week reminded 
 me that doing well also means looking at my work from the user’s and the audience’s point of view.
 
-Moving forward, I will use every feature I build on a real or realistic document before marking it as complete. 
-In addition, when a bug cannot be recreated, I will ask for the exact steps, browser, account and screenshots 
-before spending time on it, and suggest adding better error logging to the web application. Finally, for my 
-next presentation, I will open with a real incident as the problem statement and end with a summary slide, so 
-that my colleagues know exactly what to take away.
+Moving forward, I hope to keep these lessons in mind, especially by trying out my own features the way 
+a user would and thinking more about my audience when I present.
