@@ -7,11 +7,8 @@ I was tasked with testing whether the payment gateway was working
 Remediation for Web App down: 1h
 I was tasked with figuring out why the web application was down the previous day and to come up with remediation steps to prevent this from occurring again.
 
-Fixing Payment Gateway: 1h
-Fixed Stripe payment gateway.
-
 Web scraping: 1h
 Assisted a colleague with web scraping for potential clients.
 
-Hardening Automation: 2h
+Hardening Automation: 3hs
 I was tasked with assisting another intern with the creation of an application to automate endpoint hardening.
