@@ -1,0 +1,17 @@
+macOS Agentic feature: 2hs
+Following up on yesterday's efforts, I have successfully resolved the macOS agent issue, which was caused by Apple's strict security protocols.
+
+Testing Stripe configuration: 1h
+I was tasked with testing whether the payment gateway was working
+
+Remediation for Web App down: 1h
+I was tasked with figuring out why the web application was down the previous day and to come up with remediation steps to prevent this from occurring again.
+
+Fixing Payment Gateway: 1h
+Fixed Stripe payment gateway.
+
+Web scraping: 1h
+Assisted a colleague with web scraping for potential clients.
+
+Hardening Automation: 2h
+I was tasked with assisting another intern with the creation of an application to automate endpoint hardening.
