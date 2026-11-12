@@ -1,0 +1,2 @@
+Hardening Automation: 8hs
+Following up on the previous day, I was tasked with assisting another intern with the creation of an application to automate endpoint hardening.
