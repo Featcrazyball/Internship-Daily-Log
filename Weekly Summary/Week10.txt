@@ -1,8 +1,9 @@
 This week was shorter due to Monday’s public holiday. 
-Most of my time was spent on making PGAi’s agent work 
-across operating systems and building an endpoint hardening automation application.
+Most of my time was spent on making the organisation's web application's 
+agentic feature work across operating systems and building an endpoint 
+hardening automation application.
 
-PGAi:
+Web application:
 - Made the agent work on different operating systems, including macOS, by working around Apple’s strict security protocols
 - Tested whether the Stripe payment gateway was working
 - Investigated why the web application was down and proposed remediation steps
