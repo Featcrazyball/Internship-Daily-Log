@@ -1,0 +1,17 @@
+Testing Endpoint Hardening Software: 2h
+Together with other colleagues, I tested the software 
+developed for hardening automation.
+
+Endpoint Hardening Software: 4hs
+I tweaked some features on the software I have been 
+working on for the past 2 days based on colleagues' 
+advice and new information about current hardening processes.
+
+Email Backup Proposal: 2hs
+Microsoft 365 had an outage today, which made it hard 
+for the team to reply to emails and keep in touch with 
+clients. I drafted a proposal for a backup email system 
+that keeps the team working during future outages, and 
+sent it to Shane Chiang (CEO). It covers automatic email
+backups, outage detection, a backup sending service on 
+AWS, estimated costs and how long it would take to build.
