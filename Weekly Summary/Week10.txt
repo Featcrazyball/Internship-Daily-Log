@@ -1,0 +1,18 @@
+This week was shorter due to Monday’s public holiday. 
+Most of my time was spent on making PGAi’s agent work 
+across operating systems and building an endpoint hardening automation application.
+
+PGAi:
+- Made the agent work on different operating systems, including macOS, by working around Apple’s strict security protocols
+- Tested whether the Stripe payment gateway was working
+- Investigated why the web application was down and proposed remediation steps
+
+Endpoint hardening automation:
+- Assisted another intern in building a Windows application to automate endpoint hardening, using C#, .NET 10 and Windows Forms
+- Tested the software with colleagues and tweaked features based on their advice and current hardening processes
+
+Other tasks:
+- Assisted a colleague with web scraping for potential clients
+- Drafted a backup email system proposal for the CEO after the Microsoft 365 outage, 
+covering automatic email backups, outage detection, a backup sending service on AWS, 
+estimated costs and build time
