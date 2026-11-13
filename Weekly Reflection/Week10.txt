@@ -1,0 +1,50 @@
+This week was a short one, as Monday was a public holiday. However, it was 
+definitely not a light one. On Tuesday and Wednesday, I made the organisation’s 
+web application agent work on different operating systems, including macOS. 
+For the rest of the week, I helped another intern build an application that automates 
+endpoint hardening. Not to mention, two outages happened this week: The organisation's
+web application went down, and Microsoft 365 had an outage on Friday.
+
+Honestly, the macOS agent was the most frustrating part of my week. Because 
+of Apple’s hardware agreements, I had to actually find a MacBook, something 
+I had absolutely zero experience with. I did not even know how to connect it
+to the Wi-Fi. Even after that, the agent would not run because of Apple’s strict
+security protocols. Back in school, we learnt that code has to pass through 
+the operating system first. However, we never actually wrote applications that
+ran directly on it, as everything we built was on the browser. Since the browser
+handles the differences for us, our work simply ran on every operating system. 
+Now, writing just a simple agent required so much pain. To put it in simple terms, 
+it felt like being dropped into a country where I could not read the signs. Every 
+small thing took time, but once I figured out the rules, everything started to 
+make sense.
+
+Moreover, the hardening automation was a big task, as I spent about 17 hours on 
+it over three days. The application was built in C# using .NET 10 and Windows 
+Forms, with no third-party packages in the app itself. Interestingly, this links
+back to Week 7, where I compared Go and C#. Back then, I said that C# traditionally
+needs the .NET runtime installed. However, this week I learnt that it can be published 
+as a self-contained, single-file executable, so the client’s device does not need 
+.NET at all. Furthermore, using no third-party packages means fewer dependencies that 
+could become vulnerabilities, which is very important for a security tool.
+
+On Friday, I tested the software with my colleagues and tweaked it based on their 
+advice and new information about current hardening processes. As the Cybersecurity 
+Interns are the ones who actually conduct hardening for clients, they knew problems 
+that I would never have thought of. This is the same lesson I learnt in Week 9: the
+best feedback comes from the people who actually use the product.
+
+In addition, the two outages taught me how much a company depends on its systems. 
+When Microsoft 365 went down, the team could not reply to emails or keep in touch 
+with clients. Thus, I drafted a proposal for a backup email system and sent it to
+the CEO, Shane Chiang. Remembering that presentations need numbers, I included estimated 
+costs and how long it would take to build. 
+
+Similarly, when the organisation's web application went down, I came up with remediation 
+steps to stop it from happening again. Before this, I only thought of security as 
+keeping attackers out. However, this week showed me that keeping systems running is just as important.
+
+So, what have I learnt? I need to be comfortable with operating systems other than Windows,
+as not every client uses the same device as I do. Moreover, how a program is packaged matters 
+as much as the language it is written in. In addition, a company should never rely on one 
+system without a backup. Moving forward, I hope to keep these lessons in mind by thinking
+about other platforms and possible failures early, instead of only when something breaks.
