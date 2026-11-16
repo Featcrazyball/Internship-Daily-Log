@@ -1,0 +1,11 @@
+Looking through Tasklist: 2hs
+I was tasked with looking through the task list and checking what tasks have yet to be completed. I then gave recommendations or fixes for tasks 1 by 1.
+
+Production setup: 2h
+Prepare a document including the steps to set up the system design V4 I made a few weeks back.
+
+Super-admin configuration: 3hs
+I have to segregate features and make them configurable for clients from the super-admin side.
+
+Testing Pushed Features: 1h
+I was tasked with testing features that were pushed to production.
