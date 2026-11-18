@@ -1,0 +1,8 @@
+FortiClient: 5hs
+A client was asking if the free product that they were using was compliant 
+to CTM tier 5. I was tasked with checking FortiClient VPN-Only's features 
+and making an Excel sheet to check the clauses of CTM Tier 5 if they were 
+compliant. This took longer than expected, as there were many clauses to go 
+through, and I was confused. My confusion stemmed from the fact that they were 
+using just a VPN for their entire security. I later learned that this was 
+just for their employees' bring-from-home devices.
