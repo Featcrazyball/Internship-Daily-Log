@@ -1,0 +1,11 @@
+ESET Features: 2hs
+I was supposed to go through a demo account on ESET given by a 
+colleague to search for features to improve the company's web 
+application. However, there were some issues registering, so I 
+was watching YouTube videos featuring ESET's features instead.
+
+ESET APIs: 3hs
+I was asked to look through the public API documentation for ESET 
+to see if we could integrate with the company's web application. 
+The idea was to get information from their backend and show it on our 
+own dashboard. So I was looking for mostly GET requests.
