@@ -1,0 +1,6 @@
+Plan for Client Hardening: 2hs
+Having previously developed an automated hardening solution, I was 
+tasked with designing a system and process that allows clients to run 
+the hardening script on their own endpoints and send the results 
+back to us. A key requirement was ensuring the script is automatically 
+deleted afterward so clients cannot retain or reuse it for their own purposes
