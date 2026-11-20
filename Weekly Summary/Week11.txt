@@ -1,0 +1,16 @@
+This week was quieter than previous weeks. My tasks covered PGAi, client compliance and the endpoint hardening tool.
+
+PGAi:
+- Went through the task list and gave recommendations or fixes for each incomplete task
+- Prepared a document with the steps to set up system design V4
+- Made features configurable for clients from the super-admin side
+- Tested features pushed to production
+- Explored ESET’s features and public API documentation for possible dashboard integration
+
+Client work:
+- Checked FortiClient VPN-Only against CTM Tier 5 clauses in an Excel sheet for a client
+- Planned a process for clients to run the hardening script on their own endpoints, with the script sent piece by piece and deleted afterwards
+- Updated the endpoint hardening tool to support newer Windows versions
+
+Other tasks:
+- Attended an IMDA briefing on emerging cyber threats on behalf of the company and reported back to the team

@@ -1,0 +1,10 @@
+Update Endpoint Hardening Tool: 3hs
+I had to update the endpoint hardening tool to work for Windows 26H1 and 
+26H1, as the previous hardening script I used as a reference was old and 
+did not include the newer OS versions. 
+
+IMDA sharing session: 2hs
+IMDA is holding a special online briefing for its pre-approved vendors on 
+emerging cyber threats and how to strengthen our cybersecurity posture. The 
+interns were tasked with attending on behalf of the company, taking notes, 
+and reporting back to the team.

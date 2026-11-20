@@ -1,0 +1,54 @@
+Compared to the previous weeks, this week was a lot more calm. 
+On Monday, I went through the task list, prepared a document to 
+set up the system design V4 I made a few weeks back, and made 
+PGAi’s features configurable from the super-admin side.
+
+For the rest of the week, I looked into ESET’s features and APIs, 
+checked if a client’s FortiClient VPN was compliant with CTM Tier 5, 
+planned how clients could run our hardening tool on their own, and 
+attended an IMDA briefing on emerging cyber threats.
+
+The most challenging task this week was planning the client hardening process. 
+Having built the automated hardening tool, I was asked to design a way for clients 
+to run it on their own endpoints and send the results back to us. However, the 
+key requirement was that the script must be completely gone afterwards, so that 
+clients cannot keep or reuse it.
+
+Honestly, this was much harder than it sounds. Once a script is on someone else’s 
+device, it is no longer fully in our control. Thus, I planned something like a handshake, 
+where the hardening script is sent one piece at a time instead of all at once. Each 
+piece only arrives after the previous one has run and reported back, so the full script 
+never sits on the client’s device.
+
+To put it in simple terms, it is like a teacher handing out an exam one question at a 
+time and collecting each answer before giving the next. Even then, the student could still 
+copy down a question. Ergo, I learnt that in security, the goal is often to make something 
+difficult enough to not be worth it, rather than impossible.
+
+Moreover, the FortiClient task taught me not to judge too quickly. A client asked if the 
+free FortiClient VPN-Only was compliant with CTM Tier 5, so I made an Excel sheet to check 
+it against every clause. This took longer than expected, as I was confused why they were 
+using just a VPN for their entire security. However, I later learned that it was only for 
+their employees’ devices brought from home.
+
+Back in school, assignments came with all the information we needed. In the workplace, 
+context is often missing, so asking questions early would have saved me time.
+
+Apart from that, I would like to be honest about my week. Previously, I was constantly asking 
+for work. However, from Tuesday onwards, I finished my tasks, reported them and waited for more 
+work. In the meantime, I prepared for university admissions by writing READMEs for my other 
+projects and planning for future projects.
+
+Honestly, not asking for more work is something I picked up from some of the other interns. This 
+was because I noticed a difference between us during our morning meetings. Most of the time, they 
+have nothing to do. On the other hand, I am already planning in my head how to accomplish my tasks 
+for the day. 
+
+Earlier in my internship, I said that if one has no work, work will be assigned to them. This week 
+showed me that it is not always the case, and that the quieter moments are up to me to use well.
+
+Before I end off, I would like to say that a quiet week does not mean an empty one. The hardening plan
+reminded me that security is about trade-offs, while the FortiClient check reminded me to ask before 
+assuming. Not to mention, the free time gave me a chance to look back at my own projects and prepare 
+for what comes after this internship. Moving forward, I hope to keep finding a good balance between
+asking for work and investing in myself.
