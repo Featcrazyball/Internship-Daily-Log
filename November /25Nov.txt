@@ -1,0 +1,17 @@
+Customer SOP: 1 hr
+I reviewed the Customer Standard Operating Procedure (SOP) to check
+whether it reflects the current customer onboarding process and what
+has changed since the last update.
+
+Development SOP: 2 hrs
+I reviewed the Development Standard Operating Procedure (SOP) to check
+whether it reflects the current Software Development Life Cycle (SDLC)
+and what has changed since the last update.
+
+ER Diagrams: 2hs
+Finished up the ER diagrams that I was drawing for the past 2 days.
+
+Update Windows Endpoint Hardening Tool: 3hs
+I updated the hardening tool I developed to update windows. It did 
+not update windows before, as it requires a restart. With this change,
+I had to change and think of a user flow that does not involve the client too much.
