@@ -1,0 +1,2 @@
+Drawing ER Diagrams: 8 hrs
+Drawing ER diagrams for future developers to understand the database schema.
