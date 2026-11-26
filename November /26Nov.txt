@@ -1,0 +1,3 @@
+Update Developer Documentation: 5hs
+I updated the documentation regarding guides and setup for local development, 
+system architecture, and software development life cycle.
