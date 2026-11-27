@@ -1,0 +1,14 @@
+This was my final week of internship. Most of my time was spent on documentation for future developers before offboarding.
+
+PGAi:
+- Drew ER diagrams of PGAi's database, which has 125 tables and no prior documentation
+- Reviewed the Customer SOP against the current customer onboarding process
+- Reviewed the Development SOP against the current Software Development Life Cycle (SDLC)
+- Updated the developer documentation on local development setup, system architecture and the SDLC
+
+Endpoint hardening:
+- Updated the hardening tool to also update Windows, and designed a user flow that handles the required restart without involving the client too much
+
+Other tasks:
+- Analysed the firewall logs of an organisation that had a data leak, together with the other interns
+- Offboarded by removing all organisation data and documents from my laptop
