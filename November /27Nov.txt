@@ -1,0 +1,7 @@
+Offboarding: 2hs
+Removing all data and documents from my laptop involving the organisation.
+
+Firewall Logs: 5hs
+Looking through the firewall logs of another organisation, as 
+they had a data leak. The other interns and I were tasked with 
+finding if there were any useful information in the logs.
