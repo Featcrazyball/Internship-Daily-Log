@@ -1,0 +1,44 @@
+This was my last week at Momentum Z. Most of it was spent drawing ER diagrams 
+of PGAi's database so that future developers can understand the schema. Apart 
+from that, I reviewed the Customer and Development SOPs, updated the developer
+documentation, made the hardening tool update Windows, and helped analyse the 
+firewall logs of an organisation that had a data leak.
+
+The ER diagrams took almost three days. This was because the database has 125
+tables and no prior documentation, so I had to work out every relationship myself.
+Honestly, my Database Management Systems module really helped here. Drawing ER
+diagrams was basically one of my assignments, just on a much larger scale. 
+Without it, I would not have known where to start.
+
+Compared to the previous weeks, this week was about leaving things behind rather 
+than building new ones. Funnily enough, in Week 1, I was told that I was "not paid 
+enough" to document so much. Yet in my final week, documentation was the main task. 
+The difference is that this time, it was for someone else to use.
+
+Looking back, when I first started, I thought the workplace would be like school, 
+where every step must be documented carefully. However, I soon learnt that what
+mattered more was the result. I also thought I would only be doing cybersecurity. 
+Instead, I ended up developing PGAi, learning Go and C#, conducting a network VA, 
+and even marketing at GovWare.
+
+Along the way, I met many people who made this internship what it was. Shane Chiang,
+our CEO, was very lax, but strict when needed. The other interns made the place lively,
+or else it would have just been boring work. Not to mention, my IS, Mr Yew Mun, guided 
+me throughout my internship journey, always explaining why things are done the way they are.
+
+Of course, there were many difficulties. When I did not understand something, such as
+the Python script in Week 1, I asked the people around me. When I lacked a skill, such
+as Go or system design, I self-studied it. When I had never used a MacBook, I simply
+found one and figured it out. Thus, I learnt that most difficulties can be overcome by 
+asking, learning or just trying.
+
+In addition, I learnt a lot about working in society. I now understand the different
+cybersecurity certifications, such as CSA's Cyber Essentials and Cyber Trust Mark, and 
+why organisations need a DPO under the PDPA. I also saw how an organisation operates, 
+where everyone, no matter their role, helps towards the same goal. Moreover, I saw how 
+legal constraints make work harder. Emails were left out when web scraping due to data 
+privacy laws, and today, I had to remove all organisation data from my laptop during offboarding.
+
+Before I end off, I would like to thank everyone at Momentum Z. Coming from Montfort, I 
+have always stuck by the motto "Age Quod Agis", meaning do well in whatever you do. Over
+these 12 weeks, I hope I have done just that.
